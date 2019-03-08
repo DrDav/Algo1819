@@ -10,6 +10,8 @@ int main(void) {
     array[0] = 1;
     array[1] = 1;
 
+    printf("#0: %i\n#1: %i\n", array[0], array[1]); 
+    
     /* Numeri di fibonacci */
     for(i=2;i<=n;i++) {
         array[i] = array[i-1] + array[i-2];
