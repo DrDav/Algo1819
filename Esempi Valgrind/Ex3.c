@@ -1,23 +1,20 @@
 #include <stdio.h>
-#include <stdlib.h>
+
+#define N 5
+
+int a[N];
+int i;
 
 int main(void) {
-    int n = 10;
-    int i;
-    int *array = malloc(n * sizeof(int)); /* Creo un array di n elementi */
-
-    /* Primi due numeri di Fibonacci */
-    array[0] = 1;
-    array[1] = 1;
-
-    /* Numeri di fibonacci */
-    for(i=2;i<=n;i++) {
-        array[i] = array[i-1] + array[i-2];
-        printf("#%i: %i\n", i, array[i]);
+    i = 0;
+    
+    while(i<N) { /* Loop?! */
+        a[++i] = 1;
+        printf("Iterazione %i\n", i);
     }
-
-    free(array);
-
+    
+    printf("Finito.\n");
+    
     return 0;
 }
 
