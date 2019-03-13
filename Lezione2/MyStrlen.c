@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 /* Definisco la costante N = 100.
-    NB: per convensione le costanti vengono rappresentate con la lettera maiuscola */
+    NB: per convenzione le costanti vengono rappresentate con la lettera maiuscola */
 #define N 100
 
 int my_strlen(char *s){
