@@ -3,7 +3,7 @@ Questa repository contiene materiale utile per la parte di laboratorio del corso
 
 Sono presenti alcuni esercizi interessanti svolti più altre risorse utili per apprendere e padroneggiare al meglio gli algoritmi e la loro implementazione C. 
 La cartella _Algoritmi Base_ contiene la trascrizione C di molti degli pseudocodici visti a lezione. 
-Le cartelle Lezione* contengono alcuni esercizi significativi svolti dal portale degli esercizi di laboratorio, http://dijkstra.di.unipi.it
+Le cartelle Lezione* contengono alcuni esercizi significativi svolti dal portale degli esercizi di laboratorio, http://algo1819.dijkstra.di.unipi.it
 
 Tutti i codici qui presenti sono compilabili con il solo `gcc` senza bisogno di altri tool o IDE.
 
