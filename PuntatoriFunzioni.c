@@ -88,6 +88,12 @@ int main() {
     for(int i=0; i<5; i++) printf("%d ", array[i]);
     printf("\n");
 
+    // Mai provato a stampare una funzione con printf?
+    // printf("%p\n", incrementa);
+    // printf("%p\n", raddoppia);
+    // printf("%p\n", map);
+
+
     return 0;
 
     /**
@@ -97,4 +103,5 @@ int main() {
      * uguale per qsort. Non importa implementare qsort su stringhe, qsort su interi, qsort su struct banane etc
      * 
     */
+
 }
