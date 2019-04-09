@@ -76,14 +76,14 @@ void heapify(int* heap, int n, int i) {
 }
 
 
-// heapsort
+// build_max_heap
     // Dato un array, trasformarlo in un heap array chiamando heapify() su ogni elemento
     // Nota, A stesso diventa un heap array
     // A: array di partenza
     // n: dimensione di A
 
     // Complessità: n*log(n)
-void heapsort(int *A, int n) {
+void build_max_heap(int *A, int n) {
 
     for(int i=0; i<n; i++)
         heapify(A, n, i);
@@ -173,7 +173,7 @@ int main() {
 
 
     // Riorganizza array heap secondo la struttura heap di massimo
-    heapsort(heap, n);
+    build_max_heap(heap, n);
 
 
     printf("Heap derivato:\n");
