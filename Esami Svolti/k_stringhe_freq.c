@@ -1,3 +1,10 @@
+/*
+ * Esame - K stringhe più frequenti
+ * Il testo di questo esame si trova nella Lezione 7 sul portale esercizi.
+ *
+ * Link al testo dell'esame: http://algo1819.dijkstra.di.unipi.it/#/task/Lez0701LEDRMH_dup_dup_dup___dup/statement
+ */
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
