@@ -85,7 +85,7 @@ void heapify(int* heap, int n, int i) {
     // Complessità: n*log(n)
 void build_max_heap(int *A, int n) {
 
-    for(int i=0; i<n; i++)
+    for(int i=n-1; i>=0; i--)
         heapify(A, n, i);
 }
 
