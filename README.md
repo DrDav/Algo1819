@@ -22,6 +22,7 @@ Form per i feedback sul Counseling: http://bit.ly/Algo1819A (**Corso A**), http:
 Email per chiedere chiarimenti o proporre esercizi:
 - n.manini@studenti.unipi.it
 - d.rucci1@studenti.unipi.it
+- andrealisi.12lj [chiocciola] gmail [punto] com: :octocat: [Profilo Github](https://github.com/0Alic), :duck: [Pagina personale](https://0alic.github.io/)
 
 
 A cura di Chiara B., Andrea L., Nicolas M., Davide R.
