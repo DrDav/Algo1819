@@ -3,7 +3,7 @@
  * con liste di trabocco. La tabella contiene coppie (chiave, valore)
  * entrambi di tipo intero. L'operazione di hash viene eseguita solo sulla chiave,
  * mentre "valore" è un dato satellite che a seconda dell'applicazione
- * può essere uguale o diverso dalla chiave
+ * può essere uguale o diverso dalla chiave.
  *
  * Questa implementazione può essere riutilizzata in altri esercizi.
  * Per farlo bisogna includere questo file con una #include nel file dell'esercizio.
@@ -14,8 +14,8 @@
  */
 
 
-#ifndef hash_liste_h
-#define hash_liste_h
+#ifndef chained_hash_h
+#define chained_hash_h
 
 #include <math.h> /* Necessaria solo per l'ultima funzione hash */
 
