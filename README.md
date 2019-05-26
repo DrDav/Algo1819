@@ -1,12 +1,15 @@
 # Corso di Algoritmica A.A. 2018/19 - Counseling
-Questa repository contiene materiale utile per la parte di laboratorio del corso di Algoritmica dell'Università di Pisa.
+Questa repository contiene materiale utile per (principalmente la parte di laboratorio del) corso di Algoritmica dell'Università di Pisa.
 
-## (!) Tutti i file qui presenti possono essere portati _stampati_ all'esame di _laboratorio_.
+### (!) Tutti i file qui presenti possono essere portati _stampati_ all'esame di _laboratorio_.
 
 Sono presenti alcuni esercizi interessanti svolti più altre risorse utili per apprendere e padroneggiare al meglio gli algoritmi e la loro implementazione C.  
 Le cartelle `Lezione*` contengono alcuni esercizi significativi svolti dal [portale degli esercizi di laboratorio](http://algo1819.dijkstra.di.unipi.it).
 
 Tutti i codici sono compilabili con il solo `gcc` senza bisogno di altri tool o IDE.
+
+## Temi d'Esame ed Esercizi Svolti
+Nella cartella principale del repository ci sono alcuni file in formato PDF che contengono circa 40 esercizi svolti e commentati del modulo di _teoria_ (suddivisi in prima parte, che comprende tutti gli algoritmi di ordinamento, e seconda parte, dall'hashing fino alla fine del corso). Inoltre sono presenti le soluzioni in pseudocodice di alcuni esami di laboratorio, volti a favorire una migliore comprensione della loro implementazione che a sua volta si trova nella cartella **Esami Svolti**.
 
 ## Algoritmi Base
 La cartella _Algoritmi Base_ contiene la trascrizione C di molti degli pseudocodici visti a lezione. Si consiglia di leggere tutti i commenti presenti nel codice per una migliore comprensione di tutti i dettagli e scelte implementative.
