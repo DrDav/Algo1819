@@ -30,10 +30,7 @@ Per poter utilizzare queste librerie nei vostri esercizi:
 1. Includere il file `.h` desiderato nel file del proprio esercizio con `#include "nome_file.h"`
 1. Compilare il proprio esercizio con `gcc -Wall -pedantic vostro_esercizio.c file_di_libreria.c -o vostro_esercizio`.
 
-# Link Utili
-Lasciateci un feedback, proponete esercizi o argomenti da trattare al prossimo ricevimento in modo da poter preparare in anticipo del materiale utile: http://bit.ly/Algo1819A (**Corso A**), http://bit.ly/Algo1819B (**Corso B**)
-
-Email per chiedere chiarimenti o proporre esercizi:
+# Contatti:
 - n.manini@studenti.unipi.it
 - d.rucci1@studenti.unipi.it
 - andrealisi.12lj [chiocciola] gmail [punto] com: :octocat: [Profilo Github](https://github.com/0Alic), :duck: [Pagina personale](https://0alic.github.io/)
