@@ -1,4 +1,4 @@
-# Corso di Algoritmica A.A. 2018/19 - Counseling
+# Corso di Algoritmica A.A. 2019/20 - Laboratorio
 Questa repository contiene materiale utile per (principalmente la parte di laboratorio del) corso di Algoritmica dell'Università di Pisa.
 
 ### (!) Tutti i file qui presenti possono essere portati _stampati_ all'esame di _laboratorio_.
